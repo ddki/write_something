@@ -47,3 +47,17 @@
 同时，了解其他的 GUI 编程方式，可以知道前端现在的不足和优势之处，了解后端的架构思想以及成熟化的方式，可以更好地借鉴到前端。
 
 - 读标准和规范，以及一些比较好的项目的源码，从更高的层面理解前端的各种概念和技术方式
+
+## 学习资料推荐
+
+- web sites
+
+[https://www.google.com](https://www.google.com)
+
+[https://developer.mozilla.org/en-US/docs/Web](https://developer.mozilla.org/en-US/docs/Web)
+
+[http://stackoverflow.com/](http://stackoverflow.com/)
+
+[https://jsfiddle.net/](https://jsfiddle.net/)
+
+[http://www.codewars.com/](http://www.codewars.com/)
